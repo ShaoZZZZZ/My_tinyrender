@@ -1,1 +1,3 @@
-﻿  01Line.vcxproj -> C:\Users\Dog\Desktop\c++\My_tinyrender\01Line\x64\Debug\01Line.exe
+﻿  main.cpp
+C:\Users\Dog\Desktop\c++\My_tinyrender\01Line\main.cpp(20,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  01Line.vcxproj -> C:\Users\Dog\Desktop\c++\My_tinyrender\01Line\x64\Debug\01Line.exe

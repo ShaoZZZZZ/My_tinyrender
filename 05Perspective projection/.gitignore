@@ -1,0 +1,37 @@
+# 忽略编译生成的文件和文件夹
+build/
+bin/
+out/
+*.exe
+*.dll
+*.so
+*.dylib
+x64/
+.vs/
+Debug/
+# 忽略IDE生成的文件和文件夹
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+*vcxproj
+# 忽略缓存和临时文件
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+Thumbs.db
+
+# 忽略依赖和包管理器目录
+node_modules/
+bower_components/
+vendor/
+
+# 忽略一些编辑器和操作系统生成的文件
+.DS_Store
+desktop.ini
+
+# 忽略自动生成的文件
+*.generated.*
